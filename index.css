@@ -1,0 +1,101 @@
+body{
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("i1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+span{
+    width:80px;
+    display:inline-block;
+    padding: 2px;;
+    margin-bottom: 3px;
+}
+ul{
+    list-style: none;
+   }
+li{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+input{
+    margin-left:6px;
+    background:none;
+    
+}
+
+input:hover{
+        box-shadow: 2px 1px;
+
+}
+
+
+button{
+     border: none;
+     
+    margin: 0 0 0 25px;
+
+    }
+
+
+#wrapper{
+    
+    width: 45%;
+    height: 45%;
+    margin: 20% 20% 2% 25%;
+}
+
+#notfound{
+    margin: 0 0 20 100;
+    font-weight: bold;
+}
+#forgot{
+    border: 0px;
+    padding: 6px;
+    /*background:rgb(219, 221, 224);*/
+    background: none;
+    font-weight: bold;
+    color: black;
+    box-shadow: 2px 1px;
+
+   
+}
+
+#submit{
+    
+    border: 0px;
+    padding: 6px;
+    background:none;
+    color: black;
+    font-weight: bold;
+    background: none;
+    box-shadow: 2px 1px;
+}
+
+#wow{
+    width: 250px;
+    height: 30px;
+    border-radius: 6px;
+    color: black;
+   
+    font-weight: bold;
+    background:none;
+    box-shadow: 2px 1px;
+    
+}
+#wow:hover{ 
+    
+    background: rgb(239, 35, 35);
+}
+#submit:hover{
+    box-shadow: 2px 2px;
+    color: black;
+
+    background: rgb(239, 35, 35);
+}
+
+#forgot:hover{
+    background: rgb(239, 35, 35);
+    box-shadow: 2px 2px;
+    color: black;
+}
