@@ -8,7 +8,7 @@ A fully function to-do-list with update, delete, edit, insert functionality. All
 
 • Each added task will show number of days left to complete the task or number of days pending
 
-• Ones completed task can be marked completed, no deadline will b will be shown and task will be marked completed.
+• Ones completed task can be marked completed, no deadline will be will be shown and task will be marked completed.
 
 • List is updated, deleted, inserted by ajax, no browser reloading
 
